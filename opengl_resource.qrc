@@ -1,0 +1,24 @@
+<RCC>
+    <qresource prefix="/new/prefix1">
+        <file>images/icons8-close-window-48.png</file>
+        <file>images/icons8-empty-trash-48.png</file>
+        <file>images/icons8-paint-palette-48.png</file>
+        <file>images/if_redo_101170.png</file>
+        <file>images/if_undo_100960.png</file>
+        <file>images/icons8-cursor-48.png</file>
+        <file>images/icons8-circle-48.png</file>
+        <file>images/icons8-line-48.png</file>
+        <file>images/icons8-line-width-48.png</file>
+        <file>images/icons8-design-48.png</file>
+        <file>images/icons8-pencil-48.png</file>
+        <file>images/icons8-cancel-64.png</file>
+        <file>images/icons8-ellipse-64.png</file>
+        <file>images/icons8-polygon-64.png</file>
+        <file>images/icons8-oval-48.png</file>
+        <file>images/icons8-fill-64.png</file>
+        <file>images/icons8-group-objects-48.png</file>
+        <file>images/10-512.png</file>
+        <file>images/1-512.png</file>
+        <file>images/6-512.png</file>
+    </qresource>
+</RCC>
