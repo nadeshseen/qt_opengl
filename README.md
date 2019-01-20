@@ -42,7 +42,7 @@ Fig.(2.4) – Thickness Dialog Box
 
 
 
-<!-- [//]: <> (![Pattern Dialog Box](https://github.com/nadeshseen/qt_opengl/blob/master/Screenshot/Screenshot_20180916_103300.png))-->
+<!-- (![Pattern Dialog Box](https://github.com/nadeshseen/qt_opengl/blob/master/Screenshot/Screenshot_20180916_103300.png)) -->
 
 <img src="https://github.com/nadeshseen/qt_opengl/blob/master/Screenshot/Screenshot_20180916_103300.png" width="200" height="200" >
 
