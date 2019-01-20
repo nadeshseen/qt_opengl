@@ -35,18 +35,18 @@ Fig.(2.3) – QColor Dialog Box
 
   •	Thickness and Pattern are also selected using a dialog in which the options are limited as they defined at the backend by the programmer.
 
-<img src="https://github.com/nadeshseen/qt_opengl/blob/master/Screenshot/Screenshot_20180916_103225.png" width="200" height="200" >
+<img src="https://github.com/nadeshseen/qt_opengl/blob/master/Screenshot/Screenshot_20180916_103225.png" width="200" height="200" >  <img src="https://github.com/nadeshseen/qt_opengl/blob/master/Screenshot/Screenshot_20180916_103300.png" width="200" height="200" >
 
-Fig.(2.4) – Thickness Dialog Box          
+Fig.(2.4) – Thickness Dialog Box       Fig.(2.5) – Pattern Dialog Box    
+
+
 
 
 
 
 <!-- (![Pattern Dialog Box](https://github.com/nadeshseen/qt_opengl/blob/master/Screenshot/Screenshot_20180916_103300.png)) -->
 
-<img src="https://github.com/nadeshseen/qt_opengl/blob/master/Screenshot/Screenshot_20180916_103300.png" width="200" height="200" >
 
- Fig.(2.5) – Pattern Dialog Box
  
  
 ### Major Functionality Modifications:
