@@ -33,11 +33,17 @@ Fig.(2.3) – QColor Dialog Box
 
 ### Major Functionality Modifications:
 •	Objects are stored at the backend.
+
 •	Properties of each object is stored.
+
 •	Object can be deleted and restored with all its properties.
+
 •	Objects can be undone and redone.
+
 •	Shortcuts are added for frequently used operations.
+
 •	Objects can be selected and properties of that object can be edited.
+
 •	Resizing the window does not affect the properties of the objects created.
 
 ### Data Structures Used:
