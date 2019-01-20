@@ -40,7 +40,7 @@ Fig.(2.3) – QColor Dialog Box
 Fig.(2.4) – Thickness Dialog Box          
 
 ![Pattern Dialog Box](https://github.com/nadeshseen/qt_opengl/blob/master/Screenshot/Screenshot_20180916_103300.png&s=200)
-
+<img src="https://github.com/nadeshseen/qt_opengl/blob/master/Screenshot/Screenshot_20180916_103300.png" width="100" height="100">
  Fig.(2.5) – Pattern Dialog Box
  
  
