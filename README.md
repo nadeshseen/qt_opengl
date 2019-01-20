@@ -6,7 +6,7 @@ This is a computer graphics project in which an application is made to study wor
 
 ## OVERVIEW OF THE APPLICATION:
 
-<img src="https://github.com/nadeshseen/qt_opengl/blob/master/Screenshot/Screenshot_20181031_173517.png" width="300" height="300" >
+<img src="https://github.com/nadeshseen/qt_opengl/blob/master/Screenshot/Screenshot_20181031_173517.png" width="450" height="400" >
 
 Fig.(2.1) – QT OpenGL Main Window
 
@@ -29,7 +29,7 @@ The whole application is modified using Qt framework. In the earlier version, ap
 ### Major UI Modifications:
   •	Qt Color Dialog Box is used to pick colors which provides number of different options. Earlier, fixed number of colors were defined in the color class
 
-<img src="https://github.com/nadeshseen/qt_opengl/blob/master/Screenshot/Screenshot_20180916_103146.png" width="200" height="200" >
+<img src="https://github.com/nadeshseen/qt_opengl/blob/master/Screenshot/Screenshot_20180916_103146.png" width="350" height="300" >
 
 Fig.(2.3) – QColor Dialog Box
 
@@ -39,7 +39,7 @@ Fig.(2.3) – QColor Dialog Box
 
 Fig.(2.4) – Thickness Dialog Box          
 
-{%![Pattern Dialog Box](https://github.com/nadeshseen/qt_opengl/blob/master/Screenshot/Screenshot_20180916_103300.png)%}
+[//]: # (![Pattern Dialog Box](https://github.com/nadeshseen/qt_opengl/blob/master/Screenshot/Screenshot_20180916_103300.png))
 <img src="https://github.com/nadeshseen/qt_opengl/blob/master/Screenshot/Screenshot_20180916_103300.png" width="200" height="200" >
 
  Fig.(2.5) – Pattern Dialog Box
